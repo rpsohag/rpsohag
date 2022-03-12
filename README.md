@@ -34,11 +34,8 @@
 
 ## 3. 📊 My Github Status
 
-  <br/>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rpsohag&show_icons=true)
-
-<br/>
-<br/>
+![Sohag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rpsohag&show_icons=true&theme=default)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rpsohag&layout=compact)](https://github.com/rpsohag/github-readme-stats)
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
