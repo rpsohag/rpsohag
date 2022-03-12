@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.ibb.co/FgmrWy6/LINKDEN-BANNER2.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.ibb.co/wWs6T11/image-content-3.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm RP SOHAG</h1>
 <h2 align="center">I'm a passionate Full Stack Web Application Developer</h2>
