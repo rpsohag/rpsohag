@@ -35,7 +35,7 @@
 ## 3. 📊 My Github Status
 
   <br/>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shovoalways&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rpsohag&show_icons=true)
 
 <br/>
 <br/>
