@@ -31,12 +31,13 @@
 
 <br/>
 
-## 3. 📊 My Github Status
 
 ## 3. 📊 My Github Status
 
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github.com/anuraghazra/github-readme-stats" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
