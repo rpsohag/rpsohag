@@ -43,7 +43,7 @@
 
 ## 4. Connect with me:
 
-<p text-align="center">
+<p style="text-align: center;">
     
 <a href = "https://www.github.com/rpsohag/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 <a href = "https://www.facebook.com/rpsohag.pro/"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
