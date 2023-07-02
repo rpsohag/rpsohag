@@ -22,7 +22,7 @@ I’m a Full Stack Web Application Developer who is passionate about making erro
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="[https://.com](https://tailwindcss.com/)" target="_blank"> <img src="https://vasterra.com/blog/wp-content/uploads/2021/08/Tailwind-img.png" width="50px"/> </a> 
+    <a href="[https://.com](https://tailwindcss.com/)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" width="50px"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" width="40px"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
