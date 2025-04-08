@@ -1,6 +1,6 @@
-<a href="https://www.linkedin.com/in/rpsohagwdd/" target="_blank"><img width="100%" height="auto" src="https://i.ibb.co.com/nQQbJ75/github.png" height="175px"/></a>
+<a href="https://www.linkedin.com/in/rpsohagwdd/" target="_blank"><img width="100%" height="auto" src="https://i.ibb.co.com/FQ69tD4/Dpy-YOs-OZe2.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://i.ibb.co.com/FQ69tD4/Dpy-YOs-OZe2.png" width="30px">, I'm RP SOHAG</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm RP SOHAG</h1>
 <h2 align="center">I'm a passionate Full Stack Web Application Developer</h2>
 <p>
 I’m a Full Stack Web Application Developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning new technologies. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with Javascript but some technologies I enjoy working with include Javascript, NodeJs as well as PHP.
