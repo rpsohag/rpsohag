@@ -48,7 +48,7 @@ I’m a Full Stack Web Application Developer who is passionate about making erro
 
 <p align="center">
 <a href = "https://www.github.com/rpsohag/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
-<a href = "https://www.facebook.com/rpsohag.pro/"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
+<a href = "https://www.facebook.com/rpsohagwdd/"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
 <a href = "https://www.linkedin.com/in/rpsohagbd/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 
