@@ -37,7 +37,7 @@ I’m a Full Stack Web Application Developer who is passionate about making erro
 
 ## 3. 📊 My Github Status
 
-![Sohag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rpsohag&show_icons=true&theme=default)
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rpsohag?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)
 
 
 
